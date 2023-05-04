@@ -1,10 +1,10 @@
-package com.roynaldi19.bpai05_01sound
+package com.roynaldi19.dc4_05sound
 
 import android.media.SoundPool
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.roynaldi19.bpai05_01sound.databinding.ActivityMainBinding
+import com.roynaldi19.dc4_05sound.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

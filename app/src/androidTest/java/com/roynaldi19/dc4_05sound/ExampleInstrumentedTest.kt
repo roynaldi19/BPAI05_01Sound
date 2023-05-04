@@ -1,4 +1,4 @@
-package com.roynaldi19.bpai05_01sound
+package com.roynaldi19.dc4_05sound
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
